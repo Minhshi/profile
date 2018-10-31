@@ -3,7 +3,7 @@ h1 {
   font-family: 'Indie Flower', cursive;
   font-weight: bold;
   font-size: 30px;
-  color: #FDFFFC;
+  color: #A2999E;
 }
 
 body {
@@ -43,10 +43,10 @@ a:hover {
 }
 
 .cover {
-  width: 600px;
-  height: 350px;
-  border-radius: 50px;
+  border-radius: 30px;
   padding-top: 15px;
+  width: 250px;
+  height: 371.99px;
 }
 
 .social-media {
@@ -69,7 +69,7 @@ a:hover {
 
 .container {
   text-align: center;
-  width: 1200px;
+  width: 900px;
   margin: 30px auto;
 }
 
@@ -92,4 +92,13 @@ a:hover {
 
 .fas:hover {
   color: #744253;
+}
+
+.movies-header {
+  border-bottom: 1px solid #EAEAEA;
+}
+
+.movies-title {
+  color: #680E4B;
+  font-weight: bold;
 }
