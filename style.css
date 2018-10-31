@@ -1,0 +1,95 @@
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  color: #FDFFFC;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  background-color: #EAEAEA;
+}
+
+a {
+  text-decoration: none;
+  color: #A2999E;
+}
+
+a:hover {
+  color: #353B3C;
+}
+
+.btn-grey {
+  background-color: #A2999E;
+  color: white;
+  border-radius: 3px;
+  padding: 6px 14px;
+}
+
+.btn-grey:hover {
+  background-color: #353B3C;
+  color: white;
+}
+
+#profile {
+  border-radius: 300px;
+}
+
+.fab {
+  color: #A2999E;
+}
+
+.cover {
+  width: 600px;
+  height: 350px;
+  border-radius: 50px;
+  padding-top: 15px;
+}
+
+.social-media {
+  text-align: center;
+  padding: 0;
+}
+
+.social-media li {
+  display: inline-block;
+}
+
+.feedback {
+  text-align: center;
+  padding: 0;
+}
+
+.feedback li {
+  display: inline-block;
+}
+
+.container {
+  text-align: center;
+  width: 1200px;
+  margin: 30px auto;
+}
+
+.card {
+  background: #FDFFFC;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 3px;
+  border: 0.1px solid;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.card td {
+  text-align: center;
+}
+
+.fas {
+  color: #A2999E;
+}
+
+.fas:hover {
+  color: #744253;
+}
